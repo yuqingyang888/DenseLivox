@@ -10,7 +10,7 @@ Currently, we provide training and validation dataset. The test dataset is comin
 *Download links* 
 | Dataset |Link|
 |  ----  | ----  |
-|Train & Validation|https://jbox.sjtu.edu.cn/l/RFkNEG (password: lset)|
+|Train & Validation|https://jbox.sjtu.edu.cn/l/RFkNEG (password: lset)<br>https://drive.google.com/file/d/1mExRqcEq0F-IUegElRa29kyTf-smAYDK/view?usp=sharing|
 
 
 ## Dataset Structure 
